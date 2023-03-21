@@ -1,1 +1,1 @@
-# aj-blog.github.io
+# aj-blog
